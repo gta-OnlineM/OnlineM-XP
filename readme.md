@@ -4,7 +4,7 @@ This Is a free, Standlone XP system, using the XP Bar Scaleform!
 
 The Only Dependency is [oxmysql](https://github.com/overextended/oxmysql) to save the users data!
 
-# Documenation
+# Documentation
 
 There is an entire [documentation page](./documentation.md)!
 
