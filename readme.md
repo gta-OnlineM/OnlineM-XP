@@ -10,7 +10,7 @@ There is an entire [documentation page](./documentation.md)!
 
 ## Preview
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://www.youtube.com/embed/70BKEsbo_EY" frameborder="0" width="70%" height="30%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[![](https://cdn.discordapp.com/attachments/739912968917090387/1066741395185991740/TAXI_SYSTEM_3.png)](https://youtu.be/70BKEsbo_EY)
 
 ## Notice
 
