@@ -1,4 +1,4 @@
-<h1 align='center'>[OnlineM] Scaleform XP System</a></h1><p align='center'><b>Documenation</b></h5>
+<h1 align='center'>[OnlineM] Scaleform XP System</a></h1><p align='center'><b>Documentation</b></h5>
 
 # Getting Rank and XP
 
